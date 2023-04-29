@@ -1,0 +1,385 @@
+index,state,category,label,level,count
+1,JAMMU AND KASHMIR,Purchasing Power Parity,Power_Parity_Less_than_Rs_45000,1,3325
+2,HIMACHAL PRADESH,Purchasing Power Parity,Power_Parity_Less_than_Rs_45000,1,1922
+3,PUNJAB,Purchasing Power Parity,Power_Parity_Less_than_Rs_45000,1,3017
+4,UTTARAKHAND,Purchasing Power Parity,Power_Parity_Less_than_Rs_45000,1,2686
+5,HARYANA,Purchasing Power Parity,Power_Parity_Less_than_Rs_45000,1,2227
+7,RAJASTHAN,Purchasing Power Parity,Power_Parity_Less_than_Rs_45000,1,10831
+8,UTTAR PRADESH,Purchasing Power Parity,Power_Parity_Less_than_Rs_45000,1,37958
+9,BIHAR,Purchasing Power Parity,Power_Parity_Less_than_Rs_45000,1,23749
+10,SIKKIM,Purchasing Power Parity,Power_Parity_Less_than_Rs_45000,1,142
+11,ARUNACHAL PRADESH,Purchasing Power Parity,Power_Parity_Less_than_Rs_45000,1,880
+12,NAGALAND,Purchasing Power Parity,Power_Parity_Less_than_Rs_45000,1,439
+13,MANIPUR,Purchasing Power Parity,Power_Parity_Less_than_Rs_45000,1,716
+14,MIZORAM,Purchasing Power Parity,Power_Parity_Less_than_Rs_45000,1,175
+15,TRIPURA,Purchasing Power Parity,Power_Parity_Less_than_Rs_45000,1,671
+16,MEGHALAYA,Purchasing Power Parity,Power_Parity_Less_than_Rs_45000,1,503
+17,ASSAM,Purchasing Power Parity,Power_Parity_Less_than_Rs_45000,1,1510
+18,WEST BENGAL,Purchasing Power Parity,Power_Parity_Less_than_Rs_45000,1,18439
+19,JHARKHAND,Purchasing Power Parity,Power_Parity_Less_than_Rs_45000,1,8113
+20,ORISSA,Purchasing Power Parity,Power_Parity_Less_than_Rs_45000,1,12551
+21,CHHATTISGARH,Purchasing Power Parity,Power_Parity_Less_than_Rs_45000,1,5857
+22,MADHYA PRADESH,Purchasing Power Parity,Power_Parity_Less_than_Rs_45000,1,16130
+23,GUJARAT,Purchasing Power Parity,Power_Parity_Less_than_Rs_45000,1,8249
+25,MAHARASHTRA,Purchasing Power Parity,Power_Parity_Less_than_Rs_45000,1,15240
+26,ANDHRA PRADESH,Purchasing Power Parity,Power_Parity_Less_than_Rs_45000,1,19930
+27,KARNATAKA,Purchasing Power Parity,Power_Parity_Less_than_Rs_45000,1,11566
+29,KERALA,Purchasing Power Parity,Power_Parity_Less_than_Rs_45000,1,8054
+30,TAMIL NADU,Purchasing Power Parity,Power_Parity_Less_than_Rs_45000,1,13319
+32,ANDAMAN AND NICOBAR ISLANDS,Purchasing Power Parity,Power_Parity_Less_than_Rs_45000,1,1879
+6,NCT OF DELHI,Purchasing Power Parity,Power_Parity_Less_than_Rs_45000,1,5202
+24,DADRA AND NAGAR HAVELI,Purchasing Power Parity,Power_Parity_Less_than_Rs_45000,1,2217
+28,GOA,Purchasing Power Parity,Power_Parity_Less_than_Rs_45000,1,209
+31,PONDICHERRY,Purchasing Power Parity,Power_Parity_Less_than_Rs_45000,1,1937
+,JAMMU AND KASHMIR,Purchasing Power Parity,Power_Parity_Rs_45000_150000,2,9945
+,HIMACHAL PRADESH,Purchasing Power Parity,Power_Parity_Rs_45000_150000,2,8316
+,PUNJAB,Purchasing Power Parity,Power_Parity_Rs_45000_150000,2,27357
+,UTTARAKHAND,Purchasing Power Parity,Power_Parity_Rs_45000_150000,2,17728
+,HARYANA,Purchasing Power Parity,Power_Parity_Rs_45000_150000,2,22640
+,RAJASTHAN,Purchasing Power Parity,Power_Parity_Rs_45000_150000,2,63033
+,UTTAR PRADESH,Purchasing Power Parity,Power_Parity_Rs_45000_150000,2,138562
+,BIHAR,Purchasing Power Parity,Power_Parity_Rs_45000_150000,2,55371
+,SIKKIM,Purchasing Power Parity,Power_Parity_Rs_45000_150000,2,539
+,ARUNACHAL PRADESH,Purchasing Power Parity,Power_Parity_Rs_45000_150000,2,4158
+,NAGALAND,Purchasing Power Parity,Power_Parity_Rs_45000_150000,2,2417
+,MANIPUR,Purchasing Power Parity,Power_Parity_Rs_45000_150000,2,2115
+,MIZORAM,Purchasing Power Parity,Power_Parity_Rs_45000_150000,2,1193
+,TRIPURA,Purchasing Power Parity,Power_Parity_Rs_45000_150000,2,3230
+,MEGHALAYA,Purchasing Power Parity,Power_Parity_Rs_45000_150000,2,2616
+,ASSAM,Purchasing Power Parity,Power_Parity_Rs_45000_150000,2,6406
+,WEST BENGAL,Purchasing Power Parity,Power_Parity_Rs_45000_150000,2,73712
+,JHARKHAND,Purchasing Power Parity,Power_Parity_Rs_45000_150000,2,23002
+,ORISSA,Purchasing Power Parity,Power_Parity_Rs_45000_150000,2,24663
+,CHHATTISGARH,Purchasing Power Parity,Power_Parity_Rs_45000_150000,2,19526
+,MADHYA PRADESH,Purchasing Power Parity,Power_Parity_Rs_45000_150000,2,56496
+,GUJARAT,Purchasing Power Parity,Power_Parity_Rs_45000_150000,2,65573
+,MAHARASHTRA,Purchasing Power Parity,Power_Parity_Rs_45000_150000,2,132603
+,ANDHRA PRADESH,Purchasing Power Parity,Power_Parity_Rs_45000_150000,2,80360
+,KARNATAKA,Purchasing Power Parity,Power_Parity_Rs_45000_150000,2,51251
+,KERALA,Purchasing Power Parity,Power_Parity_Rs_45000_150000,2,29837
+,TAMIL NADU,Purchasing Power Parity,Power_Parity_Rs_45000_150000,2,81283
+,ANDAMAN AND NICOBAR ISLANDS,Purchasing Power Parity,Power_Parity_Rs_45000_150000,2,6810
+,NCT OF DELHI,Purchasing Power Parity,Power_Parity_Rs_45000_150000,2,32256
+,DADRA AND NAGAR HAVELI,Purchasing Power Parity,Power_Parity_Rs_45000_150000,2,25015
+,GOA,Purchasing Power Parity,Power_Parity_Rs_45000_150000,2,1589
+,PONDICHERRY,Purchasing Power Parity,Power_Parity_Rs_45000_150000,2,15335
+,JAMMU AND KASHMIR,Purchasing Power Parity,Power_Parity_Rs_150000_240000,3,1527
+,HIMACHAL PRADESH,Purchasing Power Parity,Power_Parity_Rs_150000_240000,3,1322
+,PUNJAB,Purchasing Power Parity,Power_Parity_Rs_150000_240000,3,9200
+,UTTARAKHAND,Purchasing Power Parity,Power_Parity_Rs_150000_240000,3,5096
+,HARYANA,Purchasing Power Parity,Power_Parity_Rs_150000_240000,3,8286
+,RAJASTHAN,Purchasing Power Parity,Power_Parity_Rs_150000_240000,3,6317
+,UTTAR PRADESH,Purchasing Power Parity,Power_Parity_Rs_150000_240000,3,15329
+,BIHAR,Purchasing Power Parity,Power_Parity_Rs_150000_240000,3,6168
+,SIKKIM,Purchasing Power Parity,Power_Parity_Rs_150000_240000,3,87
+,ARUNACHAL PRADESH,Purchasing Power Parity,Power_Parity_Rs_150000_240000,3,556
+,NAGALAND,Purchasing Power Parity,Power_Parity_Rs_150000_240000,3,392
+,MANIPUR,Purchasing Power Parity,Power_Parity_Rs_150000_240000,3,262
+,MIZORAM,Purchasing Power Parity,Power_Parity_Rs_150000_240000,3,224
+,TRIPURA,Purchasing Power Parity,Power_Parity_Rs_150000_240000,3,456
+,MEGHALAYA,Purchasing Power Parity,Power_Parity_Rs_150000_240000,3,369
+,ASSAM,Purchasing Power Parity,Power_Parity_Rs_150000_240000,3,834
+,WEST BENGAL,Purchasing Power Parity,Power_Parity_Rs_150000_240000,3,15122
+,JHARKHAND,Purchasing Power Parity,Power_Parity_Rs_150000_240000,3,3288
+,ORISSA,Purchasing Power Parity,Power_Parity_Rs_150000_240000,3,4766
+,CHHATTISGARH,Purchasing Power Parity,Power_Parity_Rs_150000_240000,3,1643
+,MADHYA PRADESH,Purchasing Power Parity,Power_Parity_Rs_150000_240000,3,3729
+,GUJARAT,Purchasing Power Parity,Power_Parity_Rs_150000_240000,3,10745
+,MAHARASHTRA,Purchasing Power Parity,Power_Parity_Rs_150000_240000,3,29860
+,ANDHRA PRADESH,Purchasing Power Parity,Power_Parity_Rs_150000_240000,3,5183
+,KARNATAKA,Purchasing Power Parity,Power_Parity_Rs_150000_240000,3,10663
+,KERALA,Purchasing Power Parity,Power_Parity_Rs_150000_240000,3,4013
+,TAMIL NADU,Purchasing Power Parity,Power_Parity_Rs_150000_240000,3,22188
+,ANDAMAN AND NICOBAR ISLANDS,Purchasing Power Parity,Power_Parity_Rs_150000_240000,3,1073
+,NCT OF DELHI,Purchasing Power Parity,Power_Parity_Rs_150000_240000,3,5301
+,DADRA AND NAGAR HAVELI,Purchasing Power Parity,Power_Parity_Rs_150000_240000,3,8977
+,GOA,Purchasing Power Parity,Power_Parity_Rs_150000_240000,3,273
+,PONDICHERRY,Purchasing Power Parity,Power_Parity_Rs_150000_240000,3,4775
+,JAMMU AND KASHMIR,Purchasing Power Parity,Power_Parity_Rs_240000_330000,4,1970
+,HIMACHAL PRADESH,Purchasing Power Parity,Power_Parity_Rs_240000_330000,4,758
+,PUNJAB,Purchasing Power Parity,Power_Parity_Rs_240000_330000,4,6311
+,UTTARAKHAND,Purchasing Power Parity,Power_Parity_Rs_240000_330000,4,3364
+,HARYANA,Purchasing Power Parity,Power_Parity_Rs_240000_330000,4,5636
+,RAJASTHAN,Purchasing Power Parity,Power_Parity_Rs_240000_330000,4,4698
+,UTTAR PRADESH,Purchasing Power Parity,Power_Parity_Rs_240000_330000,4,20209
+,BIHAR,Purchasing Power Parity,Power_Parity_Rs_240000_330000,4,564
+,SIKKIM,Purchasing Power Parity,Power_Parity_Rs_240000_330000,4,84
+,ARUNACHAL PRADESH,Purchasing Power Parity,Power_Parity_Rs_240000_330000,4,396
+,NAGALAND,Purchasing Power Parity,Power_Parity_Rs_240000_330000,4,129
+,MANIPUR,Purchasing Power Parity,Power_Parity_Rs_240000_330000,4,117
+,MIZORAM,Purchasing Power Parity,Power_Parity_Rs_240000_330000,4,119
+,TRIPURA,Purchasing Power Parity,Power_Parity_Rs_240000_330000,4,420
+,MEGHALAYA,Purchasing Power Parity,Power_Parity_Rs_240000_330000,4,302
+,ASSAM,Purchasing Power Parity,Power_Parity_Rs_240000_330000,4,590
+,WEST BENGAL,Purchasing Power Parity,Power_Parity_Rs_240000_330000,4,8849
+,JHARKHAND,Purchasing Power Parity,Power_Parity_Rs_240000_330000,4,507
+,ORISSA,Purchasing Power Parity,Power_Parity_Rs_240000_330000,4,3916
+,CHHATTISGARH,Purchasing Power Parity,Power_Parity_Rs_240000_330000,4,749
+,MADHYA PRADESH,Purchasing Power Parity,Power_Parity_Rs_240000_330000,4,2761
+,GUJARAT,Purchasing Power Parity,Power_Parity_Rs_240000_330000,4,11626
+,MAHARASHTRA,Purchasing Power Parity,Power_Parity_Rs_240000_330000,4,23999
+,ANDHRA PRADESH,Purchasing Power Parity,Power_Parity_Rs_240000_330000,4,3090
+,KARNATAKA,Purchasing Power Parity,Power_Parity_Rs_240000_330000,4,4970
+,KERALA,Purchasing Power Parity,Power_Parity_Rs_240000_330000,4,4103
+,TAMIL NADU,Purchasing Power Parity,Power_Parity_Rs_240000_330000,4,12888
+,ANDAMAN AND NICOBAR ISLANDS,Purchasing Power Parity,Power_Parity_Rs_240000_330000,4,636
+,NCT OF DELHI,Purchasing Power Parity,Power_Parity_Rs_240000_330000,4,5238
+,DADRA AND NAGAR HAVELI,Purchasing Power Parity,Power_Parity_Rs_240000_330000,4,5452
+,GOA,Purchasing Power Parity,Power_Parity_Rs_240000_330000,4,325
+,PONDICHERRY,Purchasing Power Parity,Power_Parity_Rs_240000_330000,4,2854
+,JAMMU AND KASHMIR,Purchasing Power Parity,Power_Parity_Rs_330000_545000,5,2725
+,HIMACHAL PRADESH,Purchasing Power Parity,Power_Parity_Rs_330000_545000,5,2278
+,PUNJAB,Purchasing Power Parity,Power_Parity_Rs_330000_545000,5,17946
+,UTTARAKHAND,Purchasing Power Parity,Power_Parity_Rs_330000_545000,5,9103
+,HARYANA,Purchasing Power Parity,Power_Parity_Rs_330000_545000,5,12778
+,RAJASTHAN,Purchasing Power Parity,Power_Parity_Rs_330000_545000,5,13311
+,UTTAR PRADESH,Purchasing Power Parity,Power_Parity_Rs_330000_545000,5,18679
+,BIHAR,Purchasing Power Parity,Power_Parity_Rs_330000_545000,5,2061
+,SIKKIM,Purchasing Power Parity,Power_Parity_Rs_330000_545000,5,34
+,ARUNACHAL PRADESH,Purchasing Power Parity,Power_Parity_Rs_330000_545000,5,294
+,NAGALAND,Purchasing Power Parity,Power_Parity_Rs_330000_545000,5,242
+,MANIPUR,Purchasing Power Parity,Power_Parity_Rs_330000_545000,5,121
+,MIZORAM,Purchasing Power Parity,Power_Parity_Rs_330000_545000,5,224
+,TRIPURA,Purchasing Power Parity,Power_Parity_Rs_330000_545000,5,224
+,MEGHALAYA,Purchasing Power Parity,Power_Parity_Rs_330000_545000,5,222
+,ASSAM,Purchasing Power Parity,Power_Parity_Rs_330000_545000,5,402
+,WEST BENGAL,Purchasing Power Parity,Power_Parity_Rs_330000_545000,5,15941
+,JHARKHAND,Purchasing Power Parity,Power_Parity_Rs_330000_545000,5,1859
+,ORISSA,Purchasing Power Parity,Power_Parity_Rs_330000_545000,5,2584
+,CHHATTISGARH,Purchasing Power Parity,Power_Parity_Rs_330000_545000,5,1569
+,MADHYA PRADESH,Purchasing Power Parity,Power_Parity_Rs_330000_545000,5,6164
+,GUJARAT,Purchasing Power Parity,Power_Parity_Rs_330000_545000,5,21848
+,MAHARASHTRA,Purchasing Power Parity,Power_Parity_Rs_330000_545000,5,72075
+,ANDHRA PRADESH,Purchasing Power Parity,Power_Parity_Rs_330000_545000,5,9156
+,KARNATAKA,Purchasing Power Parity,Power_Parity_Rs_330000_545000,5,17178
+,KERALA,Purchasing Power Parity,Power_Parity_Rs_330000_545000,5,4418
+,TAMIL NADU,Purchasing Power Parity,Power_Parity_Rs_330000_545000,5,23660
+,ANDAMAN AND NICOBAR ISLANDS,Purchasing Power Parity,Power_Parity_Rs_330000_545000,5,1142
+,NCT OF DELHI,Purchasing Power Parity,Power_Parity_Rs_330000_545000,5,9441
+,DADRA AND NAGAR HAVELI,Purchasing Power Parity,Power_Parity_Rs_330000_545000,5,17393
+,GOA,Purchasing Power Parity,Power_Parity_Rs_330000_545000,5,683
+,PONDICHERRY,Purchasing Power Parity,Power_Parity_Rs_330000_545000,5,5391
+,JAMMU AND KASHMIR,Purchasing Power Parity,Power_Parity_Above_Rs_545000,6,1193
+,HIMACHAL PRADESH,Purchasing Power Parity,Power_Parity_Above_Rs_545000,6,1564
+,PUNJAB,Purchasing Power Parity,Power_Parity_Above_Rs_545000,6,9560
+,UTTARAKHAND,Purchasing Power Parity,Power_Parity_Above_Rs_545000,6,8360
+,HARYANA,Purchasing Power Parity,Power_Parity_Above_Rs_545000,6,4461
+,RAJASTHAN,Purchasing Power Parity,Power_Parity_Above_Rs_545000,6,10589
+,UTTAR PRADESH,Purchasing Power Parity,Power_Parity_Above_Rs_545000,6,7154
+,BIHAR,Purchasing Power Parity,Power_Parity_Above_Rs_545000,6,1576
+,SIKKIM,Purchasing Power Parity,Power_Parity_Above_Rs_545000,6,29
+,ARUNACHAL PRADESH,Purchasing Power Parity,Power_Parity_Above_Rs_545000,6,172
+,NAGALAND,Purchasing Power Parity,Power_Parity_Above_Rs_545000,6,146
+,MANIPUR,Purchasing Power Parity,Power_Parity_Above_Rs_545000,6,36
+,MIZORAM,Purchasing Power Parity,Power_Parity_Above_Rs_545000,6,175
+,TRIPURA,Purchasing Power Parity,Power_Parity_Above_Rs_545000,6,237
+,MEGHALAYA,Purchasing Power Parity,Power_Parity_Above_Rs_545000,6,164
+,ASSAM,Purchasing Power Parity,Power_Parity_Above_Rs_545000,6,202
+,WEST BENGAL,Purchasing Power Parity,Power_Parity_Above_Rs_545000,6,8720
+,JHARKHAND,Purchasing Power Parity,Power_Parity_Above_Rs_545000,6,1634
+,ORISSA,Purchasing Power Parity,Power_Parity_Above_Rs_545000,6,1351
+,CHHATTISGARH,Purchasing Power Parity,Power_Parity_Above_Rs_545000,6,1263
+,MADHYA PRADESH,Purchasing Power Parity,Power_Parity_Above_Rs_545000,6,3989
+,GUJARAT,Purchasing Power Parity,Power_Parity_Above_Rs_545000,6,12669
+,MAHARASHTRA,Purchasing Power Parity,Power_Parity_Above_Rs_545000,6,43658
+,ANDHRA PRADESH,Purchasing Power Parity,Power_Parity_Above_Rs_545000,6,6449
+,KARNATAKA,Purchasing Power Parity,Power_Parity_Above_Rs_545000,6,7569
+,KERALA,Purchasing Power Parity,Power_Parity_Above_Rs_545000,6,1542
+,TAMIL NADU,Purchasing Power Parity,Power_Parity_Above_Rs_545000,6,15362
+,ANDAMAN AND NICOBAR ISLANDS,Purchasing Power Parity,Power_Parity_Above_Rs_545000,6,544
+,NCT OF DELHI,Purchasing Power Parity,Power_Parity_Above_Rs_545000,6,6921
+,DADRA AND NAGAR HAVELI,Purchasing Power Parity,Power_Parity_Above_Rs_545000,6,16029
+,GOA,Purchasing Power Parity,Power_Parity_Above_Rs_545000,6,645
+,PONDICHERRY,Purchasing Power Parity,Power_Parity_Above_Rs_545000,6,4679
+,JAMMU AND KASHMIR,Education Level,Below_Primary_Education,1,1105608
+,HIMACHAL PRADESH,Education Level,Below_Primary_Education,1,648716
+,PUNJAB,Education Level,Below_Primary_Education,1,2422485
+,UTTARAKHAND,Education Level,Below_Primary_Education,1,1251978
+,HARYANA,Education Level,Below_Primary_Education,1,2534054
+,RAJASTHAN,Education Level,Below_Primary_Education,1,10023840
+,UTTAR PRADESH,Education Level,Below_Primary_Education,1,29707438
+,BIHAR,Education Level,Below_Primary_Education,1,21533037
+,SIKKIM,Education Level,Below_Primary_Education,1,94633
+,ARUNACHAL PRADESH,Education Level,Below_Primary_Education,1,163076
+,NAGALAND,Education Level,Below_Primary_Education,1,226798
+,MANIPUR,Education Level,Below_Primary_Education,1,248408
+,MIZORAM,Education Level,Below_Primary_Education,1,123782
+,TRIPURA,Education Level,Below_Primary_Education,1,572033
+,MEGHALAYA,Education Level,Below_Primary_Education,1,487099
+,ASSAM,Education Level,Below_Primary_Education,1,3743725
+,WEST BENGAL,Education Level,Below_Primary_Education,1,10838317
+,JHARKHAND,Education Level,Below_Primary_Education,1,4779714
+,ORISSA,Education Level,Below_Primary_Education,1,5501486
+,CHHATTISGARH,Education Level,Below_Primary_Education,1,3889201
+,MADHYA PRADESH,Education Level,Below_Primary_Education,1,10486391
+,GUJARAT,Education Level,Below_Primary_Education,1,6667022
+,MAHARASHTRA,Education Level,Below_Primary_Education,1,10211270
+,ANDHRA PRADESH,Education Level,Below_Primary_Education,1,9672732
+,KARNATAKA,Education Level,Below_Primary_Education,1,6004302
+,KERALA,Education Level,Below_Primary_Education,1,2505698
+,TAMIL NADU,Education Level,Below_Primary_Education,1,5073396
+,ANDAMAN AND NICOBAR ISLANDS,Education Level,Below_Primary_Education,1,34833
+,NCT OF DELHI,Education Level,Below_Primary_Education,1,1121440
+,DADRA AND NAGAR HAVELI,Education Level,Below_Primary_Education,1,35530
+,GOA,Education Level,Below_Primary_Education,1,70842
+,PONDICHERRY,Education Level,Below_Primary_Education,1,87059
+,JAMMU AND KASHMIR,Education Level,Primary_Education,2,1526226
+,HIMACHAL PRADESH,Education Level,Primary_Education,2,1117178
+,PUNJAB,Education Level,Primary_Education,2,4060061
+,UTTARAKHAND,Education Level,Primary_Education,2,1829917
+,HARYANA,Education Level,Primary_Education,2,3514393
+,RAJASTHAN,Education Level,Primary_Education,2,9701209
+,UTTAR PRADESH,Education Level,Primary_Education,2,33441369
+,BIHAR,Education Level,Primary_Education,2,16822947
+,SIKKIM,Education Level,Primary_Education,2,125319
+,ARUNACHAL PRADESH,Education Level,Primary_Education,2,203321
+,NAGALAND,Education Level,Primary_Education,2,391795
+,MANIPUR,Education Level,Primary_Education,2,476583
+,MIZORAM,Education Level,Primary_Education,2,220893
+,TRIPURA,Education Level,Primary_Education,2,908733
+,MEGHALAYA,Education Level,Primary_Education,2,590822
+,ASSAM,Education Level,Primary_Education,2,6286859
+,WEST BENGAL,Education Level,Primary_Education,2,17632154
+,JHARKHAND,Education Level,Primary_Education,2,5937774
+,ORISSA,Education Level,Primary_Education,2,8066601
+,CHHATTISGARH,Education Level,Primary_Education,2,4058000
+,MADHYA PRADESH,Education Level,Primary_Education,2,10363593
+,GUJARAT,Education Level,Primary_Education,2,14528220
+,MAHARASHTRA,Education Level,Primary_Education,2,18242722
+,ANDHRA PRADESH,Education Level,Primary_Education,2,13036342
+,KARNATAKA,Education Level,Primary_Education,2,12425200
+,KERALA,Education Level,Primary_Education,2,5405604
+,TAMIL NADU,Education Level,Primary_Education,2,12042684
+,ANDAMAN AND NICOBAR ISLANDS,Education Level,Primary_Education,2,60466
+,NCT OF DELHI,Education Level,Primary_Education,2,2459701
+,DADRA AND NAGAR HAVELI,Education Level,Primary_Education,2,104902
+,GOA,Education Level,Primary_Education,2,174560
+,PONDICHERRY,Education Level,Primary_Education,2,177650
+,JAMMU AND KASHMIR,Education Level,Middle_Education,3,1771552
+,HIMACHAL PRADESH,Education Level,Middle_Education,3,982486
+,PUNJAB,Education Level,Middle_Education,3,3439808
+,UTTARAKHAND,Education Level,Middle_Education,3,1658574
+,HARYANA,Education Level,Middle_Education,3,3001803
+,RAJASTHAN,Education Level,Middle_Education,3,7804790
+,UTTAR PRADESH,Education Level,Middle_Education,3,26347392
+,BIHAR,Education Level,Middle_Education,3,10287996
+,SIKKIM,Education Level,Middle_Education,3,94096
+,ARUNACHAL PRADESH,Education Level,Middle_Education,3,177395
+,NAGALAND,Education Level,Middle_Education,3,406074
+,MANIPUR,Education Level,Middle_Education,3,593970
+,MIZORAM,Education Level,Middle_Education,3,250675
+,TRIPURA,Education Level,Middle_Education,3,887990
+,MEGHALAYA,Education Level,Middle_Education,3,403779
+,ASSAM,Education Level,Middle_Education,3,6391073
+,WEST BENGAL,Education Level,Middle_Education,3,18271212
+,JHARKHAND,Education Level,Middle_Education,3,4514320
+,ORISSA,Education Level,Middle_Education,3,6700024
+,CHHATTISGARH,Education Level,Middle_Education,3,3421010
+,MADHYA PRADESH,Education Level,Middle_Education,3,7486768
+,GUJARAT,Education Level,Middle_Education,3,5920431
+,MAHARASHTRA,Education Level,Middle_Education,3,15861646
+,ANDHRA PRADESH,Education Level,Middle_Education,3,11566354
+,KARNATAKA,Education Level,Middle_Education,3,7721533
+,KERALA,Education Level,Middle_Education,3,6417918
+,TAMIL NADU,Education Level,Middle_Education,3,11777047
+,ANDAMAN AND NICOBAR ISLANDS,Education Level,Middle_Education,3,71733
+,NCT OF DELHI,Education Level,Middle_Education,3,2691147
+,DADRA AND NAGAR HAVELI,Education Level,Middle_Education,3,70955
+,GOA,Education Level,Middle_Education,3,268661
+,PONDICHERRY,Education Level,Middle_Education,3,200672
+,JAMMU AND KASHMIR,Education Level,Secondary_Education,4,1457576
+,HIMACHAL PRADESH,Education Level,Secondary_Education,4,1166943
+,PUNJAB,Education Level,Secondary_Education,4,3946146
+,UTTARAKHAND,Education Level,Secondary_Education,4,1245722
+,HARYANA,Education Level,Secondary_Education,4,3217040
+,RAJASTHAN,Education Level,Secondary_Education,4,4979245
+,UTTAR PRADESH,Education Level,Secondary_Education,4,17311875
+,BIHAR,Education Level,Secondary_Education,4,7565444
+,SIKKIM,Education Level,Secondary_Education,4,54858
+,ARUNACHAL PRADESH,Education Level,Secondary_Education,4,124932
+,NAGALAND,Education Level,Secondary_Education,4,190484
+,MANIPUR,Education Level,Secondary_Education,4,394644
+,MIZORAM,Education Level,Secondary_Education,4,162403
+,TRIPURA,Education Level,Secondary_Education,4,295040
+,MEGHALAYA,Education Level,Secondary_Education,4,286005
+,ASSAM,Education Level,Secondary_Education,4,2720548
+,WEST BENGAL,Education Level,Secondary_Education,4,7446104
+,JHARKHAND,Education Level,Secondary_Education,4,2790642
+,ORISSA,Education Level,Secondary_Education,4,4093205
+,CHHATTISGARH,Education Level,Secondary_Education,4,1853321
+,MADHYA PRADESH,Education Level,Secondary_Education,4,5754570
+,GUJARAT,Education Level,Secondary_Education,4,7345431
+,MAHARASHTRA,Education Level,Secondary_Education,4,17831786
+,ANDHRA PRADESH,Education Level,Secondary_Education,4,9266937
+,KARNATAKA,Education Level,Secondary_Education,4,8431196
+,KERALA,Education Level,Secondary_Education,4,7583656
+,TAMIL NADU,Education Level,Secondary_Education,4,10557632
+,ANDAMAN AND NICOBAR ISLANDS,Education Level,Secondary_Education,4,61182
+,NCT OF DELHI,Education Level,Secondary_Education,4,2582915
+,DADRA AND NAGAR HAVELI,Education Level,Secondary_Education,4,73851
+,GOA,Education Level,Secondary_Education,4,262876
+,PONDICHERRY,Education Level,Secondary_Education,4,198755
+,JAMMU AND KASHMIR,Education Level,Higher_Education,5,863950
+,HIMACHAL PRADESH,Education Level,Higher_Education,5,776104
+,PUNJAB,Education Level,Higher_Education,5,2426383
+,UTTARAKHAND,Education Level,Higher_Education,5,958699
+,HARYANA,Education Level,Higher_Education,5,2137786
+,RAJASTHAN,Education Level,Higher_Education,5,3241557
+,UTTAR PRADESH,Education Level,Higher_Education,5,11978183
+,BIHAR,Education Level,Higher_Education,5,4600511
+,SIKKIM,Education Level,Higher_Education,5,34950
+,ARUNACHAL PRADESH,Education Level,Higher_Education,5,90576
+,NAGALAND,Education Level,Higher_Education,5,103214
+,MANIPUR,Education Level,Higher_Education,5,276496
+,MIZORAM,Education Level,Higher_Education,5,68119
+,TRIPURA,Education Level,Higher_Education,5,151689
+,MEGHALAYA,Education Level,Higher_Education,5,135182
+,ASSAM,Education Level,Higher_Education,5,1749752
+,WEST BENGAL,Education Level,Higher_Education,5,4364896
+,JHARKHAND,Education Level,Higher_Education,5,1636646
+,ORISSA,Education Level,Higher_Education,5,1829576
+,CHHATTISGARH,Education Level,Higher_Education,5,1562183
+,MADHYA PRADESH,Education Level,Higher_Education,5,4267299
+,GUJARAT,Education Level,Higher_Education,5,3491202
+,MAHARASHTRA,Education Level,Higher_Education,5,10618622
+,ANDHRA PRADESH,Education Level,Higher_Education,5,5481749
+,KARNATAKA,Education Level,Higher_Education,5,4702161
+,KERALA,Education Level,Higher_Education,5,3808994
+,TAMIL NADU,Education Level,Higher_Education,5,5628815
+,ANDAMAN AND NICOBAR ISLANDS,Education Level,Higher_Education,5,43620
+,NCT OF DELHI,Education Level,Higher_Education,5,2134748
+,DADRA AND NAGAR HAVELI,Education Level,Higher_Education,5,41237
+,GOA,Education Level,Higher_Education,5,152299
+,PONDICHERRY,Education Level,Higher_Education,5,107261
+,JAMMU AND KASHMIR,Education Level,Graduate_Education,6,615858
+,HIMACHAL PRADESH,Education Level,Graduate_Education,6,425328
+,PUNJAB,Education Level,Graduate_Education,6,1574711
+,UTTARAKHAND,Education Level,Graduate_Education,6,992548
+,HARYANA,Education Level,Graduate_Education,6,1866017
+,RAJASTHAN,Education Level,Graduate_Education,6,3500508
+,UTTAR PRADESH,Education Level,Graduate_Education,6,9588223
+,BIHAR,Education Level,Graduate_Education,6,3346072
+,SIKKIM,Education Level,Graduate_Education,6,32907
+,ARUNACHAL PRADESH,Education Level,Graduate_Education,6,60298
+,NAGALAND,Education Level,Graduate_Education,6,89079
+,MANIPUR,Education Level,Graduate_Education,6,251453
+,MIZORAM,Education Level,Graduate_Education,6,52054
+,TRIPURA,Education Level,Graduate_Education,6,137119
+,MEGHALAYA,Education Level,Graduate_Education,6,94205
+,ASSAM,Education Level,Graduate_Education,6,1017971
+,WEST BENGAL,Education Level,Graduate_Education,6,4618160
+,JHARKHAND,Education Level,Graduate_Education,6,1154047
+,ORISSA,Education Level,Graduate_Education,6,1689899
+,CHHATTISGARH,Education Level,Graduate_Education,6,1072482
+,MADHYA PRADESH,Education Level,Graduate_Education,6,3476419
+,GUJARAT,Education Level,Graduate_Education,6,3384559
+,MAHARASHTRA,Education Level,Graduate_Education,6,8463507
+,ANDHRA PRADESH,Education Level,Graduate_Education,6,5069999
+,KARNATAKA,Education Level,Graduate_Education,6,4355748
+,KERALA,Education Level,Graduate_Education,6,2992499
+,TAMIL NADU,Education Level,Graduate_Education,6,7131256
+,ANDAMAN AND NICOBAR ISLANDS,Education Level,Graduate_Education,6,28821
+,NCT OF DELHI,Education Level,Graduate_Education,6,2346885
+,DADRA AND NAGAR HAVELI,Education Level,Graduate_Education,6,30689
+,GOA,Education Level,Graduate_Education,6,144241
+,PONDICHERRY,Education Level,Graduate_Education,6,161376
