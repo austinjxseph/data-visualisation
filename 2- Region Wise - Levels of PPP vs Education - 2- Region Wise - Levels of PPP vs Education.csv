@@ -1,0 +1,61 @@
+index,category,region,label,level,percentage
+1,Purchasing Power Parity,North,Power_Parity_Less_than_Rs_45000,1,0.117877155
+2,Purchasing Power Parity,North,Power_Parity_Rs_45000_150000,2,0.491935232
+3,Purchasing Power Parity,North,Power_Parity_Rs_150000_240000,3,0.091285672
+4,Purchasing Power Parity,North,Power_Parity_Rs_240000_330000,4,0.06697103
+5,Purchasing Power Parity,North,Power_Parity_Rs_330000_545000,5,0.14570789
+6,Purchasing Power Parity,North,Power_Parity_Above_Rs_545000,6,0.08622302
+7,Education Level,North,Below_Primary_Education,1,0.193606822
+8,Education Level,North,Primary_Education,2,0.233732606
+9,Education Level,North,Middle_Education,3,0.197965212
+10,Education Level,North,Secondary_Education,4,0.172717884
+11,Education Level,North,Higher_Education,5,0.113115119
+12,Education Level,North,Graduate_Education,6,0.088862358
+13,Purchasing Power Parity,North East,Power_Parity_Less_than_Rs_45000,1,0.13722966
+14,Purchasing Power Parity,North East,Power_Parity_Rs_45000_150000,2,0.608836099
+15,Purchasing Power Parity,North East,Power_Parity_Rs_150000_240000,3,0.092888543
+16,Purchasing Power Parity,North East,Power_Parity_Rs_240000_330000,4,0.0614712
+17,Purchasing Power Parity,North East,Power_Parity_Rs_330000_545000,5,0.059850514
+18,Purchasing Power Parity,North East,Power_Parity_Above_Rs_545000,6,0.039723984
+19,Education Level,North East,Below_Primary_Education,1,0.178741965
+20,Education Level,North East,Primary_Education,2,0.271918778
+21,Education Level,North East,Middle_Education,3,0.261641779
+22,Education Level,North East,Secondary_Education,4,0.139954863
+23,Education Level,North East,Higher_Education,5,0.081425606
+24,Education Level,North East,Graduate_Education,6,0.066317009
+25,Purchasing Power Parity,Central,Power_Parity_Less_than_Rs_45000,1,0.157716857
+26,Purchasing Power Parity,Central,Power_Parity_Rs_45000_150000,2,0.547354898
+27,Purchasing Power Parity,Central,Power_Parity_Rs_150000_240000,3,0.075497687
+28,Purchasing Power Parity,Central,Power_Parity_Rs_240000_330000,4,0.051956017
+29,Purchasing Power Parity,Central,Power_Parity_Rs_330000_545000,5,0.102463077
+30,Purchasing Power Parity,Central,Power_Parity_Above_Rs_545000,6,0.065011465
+31,Education Level,Central,Below_Primary_Education,1,0.201650757
+32,Education Level,Central,Primary_Education,2,0.275717695
+33,Education Level,Central,Middle_Education,3,0.198402024
+34,Education Level,Central,Secondary_Education,4,0.155424805
+35,Education Level,Central,Higher_Education,5,0.093327081
+36,Education Level,Central,Graduate_Education,6,0.075477639
+37,Purchasing Power Parity,South,Power_Parity_Less_than_Rs_45000,1,0.126629754
+38,Purchasing Power Parity,South,Power_Parity_Rs_45000_150000,2,0.54994824
+39,Purchasing Power Parity,South,Power_Parity_Rs_150000_240000,3,0.088453495
+40,Purchasing Power Parity,South,Power_Parity_Rs_240000_330000,4,0.057098969
+41,Purchasing Power Parity,South,Power_Parity_Rs_330000_545000,5,0.116365397
+42,Purchasing Power Parity,South,Power_Parity_Above_Rs_545000,6,0.061504146
+43,Education Level,South,Below_Primary_Education,1,0.125208475
+44,Education Level,South,Primary_Education,2,0.23615562
+45,Education Level,South,Middle_Education,3,0.20995791
+46,Education Level,South,Secondary_Education,4,0.207706939
+47,Education Level,South,Higher_Education,5,0.112386569
+48,Education Level,South,Graduate_Education,6,0.108584488
+49,Purchasing Power Parity,Union Territories,Power_Parity_Less_than_Rs_45000,1,0.07547225
+50,Purchasing Power Parity,Union Territories,Power_Parity_Rs_45000_150000,2,0.452621262
+51,Purchasing Power Parity,Union Territories,Power_Parity_Rs_150000_240000,3,0.10011444
+52,Purchasing Power Parity,Union Territories,Power_Parity_Rs_240000_330000,4,0.0751028
+53,Purchasing Power Parity,Union Territories,Power_Parity_Rs_330000_545000,5,0.16208189
+54,Purchasing Power Parity,Union Territories,Power_Parity_Above_Rs_545000,6,0.134607358
+55,Education Level,Union Territories,Below_Primary_Education,1,0.091749501
+56,Education Level,Union Territories,Primary_Education,2,0.206463334
+57,Education Level,Union Territories,Middle_Education,3,0.220888105
+58,Education Level,Union Territories,Secondary_Education,4,0.212379202
+59,Education Level,Union Territories,Higher_Education,5,0.135493962
+60,Education Level,Union Territories,Graduate_Education,6,0.133025895
